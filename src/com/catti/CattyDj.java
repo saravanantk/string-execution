@@ -5,6 +5,9 @@ import java.util.Vector;
 
 public class CattyDj {
 	
+	private void sarwork() {
+		System.out.println("sarowork");
+	}
 	private void print() {
 		System.out.println("print");
 
