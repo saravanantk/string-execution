@@ -4,6 +4,10 @@ import java.util.List;
 import java.util.Vector;
 
 public class CattyDj {
+	
+	private void sarwork() {
+		System.out.println("sarowork");
+	}
 
 
 		public static void main(String[] args) {
