@@ -4,6 +4,14 @@ import java.util.List;
 import java.util.Vector;
 
 public class CattyDj {
+	
+	private void print() {
+		System.out.println("print");
+
+
+	}
+	
+	
 
 
 		public static void main(String[] args) {
@@ -26,6 +34,8 @@ public class CattyDj {
 			
 			Object get = v.get(5);
 			System.out.println(get);
+			
+			v.clear();
 			
 		    v.add(2, 10);
 		    System.out.println(v);
